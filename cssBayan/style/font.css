@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Raleway';
+  font-family: 'Aboreto';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/raleway-v28-latin_cyrillic-regular.woff2') format('woff2'),
-      url('../fonts/raleway-v28-latin_cyrillic-regular.woff') format('woff');
+  src: url('../fonts/aboreto-v2-latin-regular.woff2') format('woff2'),
+      url('../fonts/aboreto-v2-latin-regular.woff') format('woff');
 }
